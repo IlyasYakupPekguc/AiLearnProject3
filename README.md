@@ -22,10 +22,11 @@ Jupiter has been usefull the previous time. I will continue to use it.
 
 
 3----------------------------------------- ERRORS:
-There we're no major error is occurd with during the project.
-Everything went pretty smooth.
 
 
 4----------------------------------------- Thoughts:
-Ofcourse i got a better understanding of the project and learned new things.
-İ need to weekly read my previous project again (it wont take 10  mins) just to remember some key features and to not forget the new things i've learned through out my journey.
+
+
+
+5----------------------------------------- Highlights:
+
