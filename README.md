@@ -27,6 +27,9 @@ Jupiter has been usefull the previous time. I will continue to use it.
 
 
 4----------------------------------------- ERRORS:
+İ got a few errors regarding the output of the text.
+First i got an error that the whole text could not be printed so i scaled up the text that could be printed.
+Second i got a nltk error. İ fixed with a simple code that's given by VSCode itself.
 
 
 5----------------------------------------- THOUGHTS:
