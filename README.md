@@ -33,9 +33,9 @@ Second i got a nltk error. İ fixed with a simple code that's given by VSCode it
 
 
 5----------------------------------------- THOUGHTS:
-
-
+It was a short but interesting project. I want to get to learn more about ai and it's variety of features.
 
 
 6----------------------------------------- HIGHLIGHTS:
+-Text analysis
 
